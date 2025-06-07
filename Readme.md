@@ -39,7 +39,6 @@ style.css
 script.js
 assets/
     cloud.png
-    clouds.png
     humidity.png
     loading (1).gif
     location.png
